@@ -42,9 +42,7 @@ corresponde à S_0(k1, k2).
 Discussion sur la complexité:
 
 La méthode la plus lourde en termes de complexité est calcul_F(), en ce qu'il
-s'agit d'une méthode récursive: elle est en O(n!).
-
-A VERIFIERRRRR!!!!!!
+s'agit d'une méthode récursive.
 
 Elle est appelée dans compute() et report().
 
