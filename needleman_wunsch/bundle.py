@@ -6,7 +6,6 @@ from colorama import Fore, Style
 from ruler import Ruler
 
 file_name = sys.argv[1]
-#file_name = "DATASET.txt"
 
 # on ouvre le fichier pour compter ses lignes et enlever les lignes vides
 with open(file_name, "r") as reader:
